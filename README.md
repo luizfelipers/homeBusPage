@@ -3,11 +3,15 @@
 One of the first prototypes I made using React Js on the webpage of a traveling agency. 
 StyledComponents, React-Smooth-Scroll and React-Router packages were used on this project. It's currently responsive, but not in a Mobile-First aproach.
 
-![]
+![](https://user-images.githubusercontent.com/26651389/102995253-6e21f300-44ff-11eb-9b7b-daef181b17a1.gif)
 
-![]
+![](https://user-images.githubusercontent.com/26651389/102995277-7bd77880-44ff-11eb-975a-635f4945a20f.gif)
 
-# Getting Started with Create React App
+
+
+### Feel free to clone this repo and modify it the way you want. Follow the instructions below to run it locally:
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
